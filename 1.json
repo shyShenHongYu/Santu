@@ -1,8 +1,7 @@
 {
   "name": "AF #1", 
-  "description": "SANTU TEST", 
+  "description": "Atomo Fafa", 
   "image": "https://raw.githubusercontent.com/shyShenHongYu/Santu/main/1.jpg", 
-  
   "attributes": [{"trait_type": "Background", "value": "Bright White"}, 
                  {"trait_type": "Hands", "value": "Telephone's Receiver"},
                  {"trait_type": "Body", "value": "Red Sailing Clothes"}, 
