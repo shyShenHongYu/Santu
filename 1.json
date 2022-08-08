@@ -1,0 +1,13 @@
+{
+  "name": "AF #1", 
+  "description": "SANTU TEST", 
+  "image": "https://raw.githubusercontent.com/shyShenHongYu/Santu/main/1.jpg", 
+  
+  "attributes": [{"trait_type": "Background", "value": "Bright White"}, 
+                 {"trait_type": "Hands", "value": "Telephone's Receiver"},
+                 {"trait_type": "Body", "value": "Red Sailing Clothes"}, 
+                 {"trait_type": "Face", "value": "Pink Blush"}, 
+                 {"trait_type": "Hairstyle", "value": "Peach"}, 
+                 {"trait_type": "Eyes", "value": "Dead Eyes"}, 
+                 {"trait_type": "Mouth", "value": "Lick Mouth"}
+  ]}
