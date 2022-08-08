@@ -1,0 +1,8 @@
+{
+  "name": "Santu Test NFT",
+  "description": "SANTU TEST",
+  "image_url":"https://raw.githubusercontent.com/CheersPals/cheerspalsofficial/main/images/avatar.png",
+  "external_link": "http://www.baidu.com",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0x8d632dA368Ce32291d1a7F5114Ea9673F7b78726"
+}
